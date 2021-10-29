@@ -2,7 +2,7 @@
   "name": "discord-stat",
   "version": "0.0.1",
   "description": "A simple Discord stat bot.",
-  "main": "theark.js",
+  "main": "jalix.js",
   "scripts": {
     "start": "node ."
   },

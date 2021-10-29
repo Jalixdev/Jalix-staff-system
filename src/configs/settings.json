@@ -1,0 +1,11 @@
+{
+  "token": "BOT-TOKEN",
+  "prefix": ["."],
+  "mongoUrl": "MONGO URL",
+  "owners": ["796858691000205342"],
+  "InviteLog": "",
+  "FakeDays" : true,
+  "EmojiTik":"<a:tik:901868922293334036>",
+  "EmojiHayir" : "<a:tik:901868932703612998>",
+  "ServerID" : "SUNUCU-İD"
+}
